@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/travers/Projects/vscode-repro/build",
+  "command": "/usr/bin/clang++-18 -std=c++23 -stdlib=libc++ -o CMakeFiles/main.dir/main.cpp.o -c /home/travers/Projects/vscode-repro/main.cpp",
+  "file": "/home/travers/Projects/vscode-repro/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+}
+]
